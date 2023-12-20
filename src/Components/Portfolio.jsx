@@ -48,6 +48,12 @@ const projectList = [
       "Revolutionize Learning: Explore Labs Anywhere, Anytime. Empowering Students and Researchers with Augmented Reality Experiments and Personalized Progress Tracking.",
     url: "https://github.com/Rajendra3213/Prayogsala_Anveshan.git",
   },
+  {
+    title: "My resume website",
+    description:
+      "This is the website that showcase my resume and projects.",
+    url: "https://www.linkedin.com/in/shubham-pokhrel/",
+  },
 ];
 
 const Portfolio = () => {
