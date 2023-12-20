@@ -31,28 +31,22 @@ const imageAltText = "banner recognizing Microsoft Learn Student Ambassadors";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Tic-Tac-Toe Game",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project is a fun and interactive implementation of the classic Tic-Tac-Toe game using C programming language and graphics.h library. It includes a user-friendly interface, timer, and winning text.",
+    url: "https://github.com/shubham-pokhrel/Tic-Tac-Toe.git",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Trinetra - Your self guide",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Our app utilizes power of mobile camera to improve your tour experience. A tourist can scan monuments or artifacts and can see its information in Augmented Reality",
+    url: "https://github.com/trinetra-deltathon/flutterApp.git",
   },
   {
-    title: "My Resume Site",
+    title: "Prayogshala Anveshan",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Revolutionize Learning: Explore Labs Anywhere, Anytime. Empowering Students and Researchers with Augmented Reality Experiments and Personalized Progress Tracking.",
+    url: "https://github.com/Rajendra3213/Prayogsala_Anveshan.git",
   },
 ];
 
