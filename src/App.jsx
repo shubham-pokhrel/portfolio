@@ -27,12 +27,12 @@ const siteProps = {
   name: "Shubham Pokhrel",
   title: "App developer & Electronics Engineer",
   email: "contact@shubhampokhrel.com.np",
-  gitHub: "https://github.com/shubham-pokhrel/",
-  instagram: "https://www.instagram.com/imshubhampokhrel/",
-  linkedIn: "https://www.linkedin.com/in/shubham-pokhrel/",
+  gitHub: "shubham-pokhrel/",
+  instagram: "imshubhampokhrel/",
+  linkedIn: "shubham-pokhrel/",
   medium: "",
   twitter: "https://twitter.com/shubham_pokhrel",
-  youTube: "https://www.youtube.com/channel/UCDCaTKsFZCGvLfLkJ1HUvEg",
+  youTube: "UCDCaTKsFZCGvLfLkJ1HUvEg",
 };
 
 const primaryColor = "#4E567E";
